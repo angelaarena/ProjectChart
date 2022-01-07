@@ -1,0 +1,9 @@
+<Grafico>
+	<NomeX> x </NomeX>
+	<NomeY> y </NomeY>
+	<Titolo name="Omicidio" />
+		<Point x="1" y="2" />
+		...
+	</Titolo>
+	<Descrizione> ... </Descrizione>
+</Grafico>
