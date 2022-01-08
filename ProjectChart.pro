@@ -28,9 +28,11 @@ SOURCES += \
         mainwindow.cpp \
     data.cpp \
     dato.cpp \
-    dato.cpp
+    dato.cpp \
+    valori.cpp
 
 HEADERS += \
         mainwindow.h \
     data.h \
-    dato.h
+    dato.h \
+    valori.h
