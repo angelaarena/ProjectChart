@@ -12,7 +12,7 @@ private:
     QString description;
     QList <qint8> anni; //vettore che contiene gli anni di riferimento delle x
     QPair <qint8, qint8> pair; //uomini e donne, controllare che sia >0
-    vector <pair> set; //vettore che contiene i dati con fist=uomini e second=donne
+    vector <QPair<qint8,qint8>> set; //vettore che contiene i dati con fist=uomini e second=donne
 
     /* QString name_x;
     QString name_y;

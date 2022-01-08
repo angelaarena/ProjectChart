@@ -26,8 +26,11 @@ DEFINES += QT_DEPRECATED_WARNINGS
 SOURCES += \
         main.cpp \
         mainwindow.cpp \
-    data.cpp
+    data.cpp \
+    dato.cpp \
+    dato.cpp
 
 HEADERS += \
         mainwindow.h \
-    data.h
+    data.h \
+    dato.h
