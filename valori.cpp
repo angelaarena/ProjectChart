@@ -34,3 +34,12 @@ bool Valori::IsEmpty(){
     else
         return false;
 }
+
+QString Valori::getTitle() const{
+    return title;
+}
+
+QString Valori::getDescription() const{
+    return description;
+}
+
